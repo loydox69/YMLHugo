@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://loydox69.github.io/</link>
+        <description>Recent content on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 24 Jan 2024 15:50:05 +0800</lastBuildDate><atom:link href="https://loydox69.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test3</title>
+        <link>https://loydox69.github.io/posts/test3/</link>
+        <pubDate>Wed, 24 Jan 2024 15:50:05 +0800</pubDate>
+        
+        <guid>https://loydox69.github.io/posts/test3/</guid>
+        <description>&lt;p&gt;This is a post&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>New_testingpost</title>
+        <link>https://loydox69.github.io/posts/new_testingpost/</link>
+        <pubDate>Wed, 24 Jan 2024 15:07:47 +0800</pubDate>
+        
+        <guid>https://loydox69.github.io/posts/new_testingpost/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>My First Post</title>
+        <link>https://loydox69.github.io/posts/foo/</link>
+        <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+        
+        <guid>https://loydox69.github.io/posts/foo/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to My First Post&lt;/h1&gt;
+&lt;p&gt;This is the content of my first post.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

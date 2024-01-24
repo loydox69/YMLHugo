@@ -1,0 +1,6 @@
+baseURL = 'https://loydox69.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme=  'hugo-theme-stack-3.21.0'
+RelativeURLs=true
+CanonifyURLs=true
